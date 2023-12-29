@@ -10,7 +10,7 @@ public class Rectangle {
 	}
 	
 	public static void main(String[] args) {
-		Rectangle rect = new Rectangle(); // 겍체 생성
+		Rectangle rect = new Rectangle(); // 객체 생성
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("> > ");
 		
